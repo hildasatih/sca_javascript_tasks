@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.container{
+    margin: 0 auto;
+    width: 50%;
+    height: 80vh;
+}
+
+.calculator{
+    width: 50%;
+    height: 60vh;
+    background: #008086;
+    border-radius: 10px;
+    margin: 50px auto;
+}
+.btns{
+    margin: 0.5em;
+}
+input[type=text]{
+        width: 260px;
+        height: 55px;
+        margin: 0.8em 2.5em;
+        padding: 0.5em;
+        font-weight: bold;
+        text-align: right;
+}
+
+/* input button styling */
+.numb1,.numb2, .numb3, .numb4, .numb5, .numb6, .numb7, .numb8, .numb9, .zero{
+    padding: 20px 30px;
+    margin: 0.2em 0.2em;
+    font-weight: bold;
+}
+
+.dot, .add, .minus, .multiply, .divide{
+    padding: 20px 30px;
+    margin: 0.2em 0.2em;
+    font-weight: bold;
+}
+
+
+
+.del{
+    padding: 20px 20px;
+    margin: 0.2em 0.2;
+    font-weight: bold;
+    
+}
+
+.equals{
+    padding: 20px 90px;
+    margin: 0.2em 5em;
+}
