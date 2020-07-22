@@ -1,0 +1,7 @@
+[
+    {"Name": "Moses", "Dept": "Admin", "Position": "manager"},
+    {"Name": "Grace", "Dept": "HR", "Position": "manager"},
+    {"Name": "Maureen", "Dept": "IT", "Position": "Asst manager"},
+    {"Name": "Femi", "Dept": "Admin", "Position": "Secretary"},
+    {"Name": "Paul", "Dept": "HR", "Position": "Supervisor"}
+]
